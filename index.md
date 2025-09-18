@@ -92,3 +92,10 @@ layout: default
 
 　　希望这份指南能帮你在印度通讯无忧。毕竟，有了可靠的网络连接，你才能更好地分享泰姬陵的日出照片或是寻找地道的街头恰特小吃，不是吗？
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [India eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/india-data-plans)
